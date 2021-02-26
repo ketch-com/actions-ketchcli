@@ -5,6 +5,6 @@ Winch GitHub Actions for Ketch CLI
 ## Usage
 
 ```yaml
-- uses: winchci/actions-ketchcli@v1
+- uses: ketch-com/actions-ketchcli@v1
 ```
 
